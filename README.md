@@ -18,13 +18,13 @@ Step 2: Start BeEF using this command:
 
 beef-xss-start
 
-📸 INSERT SCREENSHOT 1 HERE – BeEF Startup
+<img width="1086" height="1280" alt="WhatsApp Image 2026-11-15 at 12 43 27 PM" src="https://github.com/user-attachments/assets/90553e69-ddb4-4a41-8140-39b4ed21f585" /> 1 HERE – BeEF Startup
 
 "Screenshot 1 - BeEF Startup" (images/beef-started.png)
 
 Step 3: Wait for BeEF to start and display the Web UI address.
 
-📸 INSERT SCREENSHOT 2 HERE – Web UI Address
+<img width="1280" height="559" alt="WhatsApp Image 2026-11-15 at 12 43 27 PM (2)" src="https://github.com/user-attachments/assets/ed7574be-4d05-4a0d-a96d-c3406f9f61a1" />2 HERE – Web UI Address
 
 "Screenshot 2 - Web UI" (images/beef-webui.png)
 
@@ -32,7 +32,7 @@ Step 4: Open Firefox and visit:
 
 http://127.0.0.1:3000/ui/panel
 
-📸 INSERT SCREENSHOT 3 HERE – BeEF Dashboard
+<img width="1280" height="559" alt="WhatsApp Image 2026-11-15 at 12 43 27 PM (1)" src="https://github.com/user-attachments/assets/e2b81335-e41c-47e5-9411-a94733891098" />– BeEF Dashboard
 
 "Screenshot 3 - BeEF Dashboard" (images/beef-dashboard.png)
 
